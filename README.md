@@ -145,3 +145,4 @@ GET https://url-shortener-sd2u.onrender.com/url/:shortId
   - urlRoutes.js
 - index.js
 
+### Hosted on Render (https://url-shortener-sd2u.onrender.com/)
