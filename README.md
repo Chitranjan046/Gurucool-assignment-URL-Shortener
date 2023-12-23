@@ -1,5 +1,7 @@
 # URL Shortener backend Project
 
+
+
 ## Features
 
 - Shorten long URLs into a concise format.
@@ -66,6 +68,16 @@ Invalid credentials: Status 401 - `{ "error": "Invalid credentials" }`
 - **Endpoint:** `GET /url/:shortId`
 - **Purpose:** Access the original URL by visiting the generated short URL.
 - **Replace `:shortId`** with the actual short ID obtained from the shortened URL.
+
+
+ # How to Setup
+Download ZIP File and Extrat It.
+Open it with VS COde.
+Set UP your own mongoose cluster.
+Open Terminal and Type "npm install".
+Set up environment variables.
+Create a .env file and Configure MongoDB connection.
+and Then Type "npm start" which will run the project.
 
 
 
